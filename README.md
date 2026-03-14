@@ -7,7 +7,7 @@ Principal Frontend Engineer specializing in Angular platform architecture, Nx mo
 - Angular
 - Nx Monorepos
 - NgRx
-- Angular Signals
+- Signals
 - Frontend Architecture
 
 ## 🚀 Featured Project
