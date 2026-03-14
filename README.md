@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Avi 👋
 
-<!--
-**Avien/Avien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Frontend Engineer specializing in Angular platform architecture, Nx monorepos and scalable frontend tooling.
 
-Here are some ideas to get you started:
+## 🔧 Tech Focus
+Angular • Nx • NgRx • Signals • Frontend Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+[fmr-trading-system](https://github.com/Avien/fmr-trading-system)
+
+Angular Nx monorepo architecture demo using NgRx, Signals and the Facade pattern.
+
+Live demo:  
+https://fmr-trading-system.vercel.app
