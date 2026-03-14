@@ -1,4 +1,4 @@
-# Hi, I'm Avi 👋
+# Avi Engelshtien 👋
 
 Principal Frontend Engineer specializing in Angular platform architecture, Nx monorepos and scalable frontend tooling.
 
@@ -20,3 +20,4 @@ Demonstrates scalable frontend architecture using Nx domain libraries, a Reactiv
 
 Live demo  
 https://fmr-trading-system.vercel.app
+
