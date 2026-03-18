@@ -10,7 +10,7 @@ Principal Frontend Engineer specializing in Angular platform architecture, Nx mo
 - Signals
 - Frontend Architecture
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [Users Portal Demo](https://github.com/Avien/fmr-trading-system)
 
@@ -18,4 +18,12 @@ Demonstrates scalable frontend architecture using Nx domain libraries, a Reactiv
 
 Live demo  
 https://fmr-trading-system.vercel.app
+
+
+### 🔹 Nx Frontend Architecture Showcase
+A feature-driven Angular/Nx workspace showcasing two independent domains:
+a multi-step integration wizard with route-based orchestration, and a server-driven searchable users directory focused on pagination and performance.
+
+Live demo:  
+https://nx-frontend-showcase.vercel.app
 
