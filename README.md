@@ -20,7 +20,7 @@ Live demo
 https://fmr-trading-system.vercel.app
 
 
-### 🔹 Nx Frontend Architecture Showcase
+### 🔹 [Nx Frontend Architecture Showcase][https://github.com/Avien/nx-frontend-showcase]
 A feature-driven Angular/Nx workspace showcasing two independent domains:
 a multi-step integration wizard with route-based orchestration, and a server-driven searchable users directory focused on pagination and performance.
 
