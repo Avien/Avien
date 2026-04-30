@@ -16,7 +16,7 @@ Principal Frontend Engineer specializing in Angular platform architecture, Nx mo
 
 Demonstrates scalable frontend architecture using Nx domain libraries, a Reactive Facade pattern and signal-driven view models.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat-square)](https://fmr-trading-system.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat-square)](https://users-portal-system.vercel.app)
 
 ### 🔹 [Nx Frontend Architecture Showcase](https://github.com/Avien/nx-frontend-showcase)
 A feature-driven Angular/Nx workspace showcasing two independent domains:
