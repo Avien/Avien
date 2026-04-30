@@ -12,7 +12,7 @@ Principal Frontend Engineer specializing in Angular platform architecture, Nx mo
 
 ## 🚀 Featured Projects
 
-### 🔹 [Users Portal Demo](https://github.com/Avien/fmr-trading-system)
+### 🔹 [Users Portal Demo](https://github.com/Avien/users-portal)
 
 Demonstrates scalable frontend architecture using Nx domain libraries, a Reactive Facade pattern and signal-driven view models.
 
