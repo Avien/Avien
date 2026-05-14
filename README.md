@@ -23,8 +23,14 @@ Demonstrates the same users-and-orders domain implemented twice inside one Nx mo
 - Real-time WebSocket order updates, smart caching, pending-buffer handling and toast notifications
 - Nx module boundaries enforcing clean separation by layer and framework
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat-square)](https://users-portal-angular.vercel.app)
+Demo:
 
+<a href="https://users-portal-angular.vercel.app">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
+<a href="https://github.com/Avien/users-portal">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
 
 ### 🔹 [Nx Frontend Architecture Showcase](https://github.com/Avien/nx-frontend-showcase)
 A feature-driven Angular/Nx workspace showcasing two independent domains:
