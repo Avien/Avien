@@ -27,7 +27,7 @@ Demonstrates the same users-and-orders product implemented across Angular, React
 Demo:
 
 <a href="https://users-portal-shell.vercel.app">
-  <img src="https://img.shields.io/badge/Hybrid%20MFE-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧩%20Hybrid%20MFE-0f766e?style=for-the-badge" />
 </a>
 
 <a href="https://users-portal-angular.vercel.app">
