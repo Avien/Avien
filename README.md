@@ -13,17 +13,22 @@ Principal Frontend Engineer & Architect specializing in scalable frontend archit
 
 ## 🚀 Featured Projects
 
-### 🔷 [Users Portal — Angular + React Architecture Lab](https://github.com/Avien/users-portal)
+### 🔷 [Users Portal — Angular / React / Hybrid MFE Lab](https://github.com/Avien/users-portal)
 
-Demonstrates the same users-and-orders domain implemented twice inside one Nx monorepo:
+Demonstrates the same users-and-orders product implemented across Angular, React, and Hybrid Microfrontend architectures inside one Nx monorepo:
 
-- Angular 21 implementation using NgRx, Signals, OnPush, Facade pattern and CDK Virtual Scroll
-- React 19 implementation using TanStack Query, Zustand, React.memo and TanStack Virtual
-- Shared framework-agnostic domain contracts and pure TypeScript utilities
-- Real-time WebSocket order updates, smart caching, pending-buffer handling and toast notifications
-- Nx module boundaries enforcing clean separation by layer and framework
+- Angular app: NgRx, Signals, OnPush, Facade pattern and CDK Virtual Scroll
+- React app: TanStack Query, Zustand, React.memo and TanStack Virtual
+- Hybrid MFE: Angular shell hosting a React remote
+- Shared framework-agnostic TypeScript contracts and domain utilities
+- Real-time WebSocket order updates, smart caching and toast notifications
+- Nx-enforced module boundaries across apps, libraries, layers and frameworks
 
 Demo:
+
+<a href="https://users-portal-shell.vercel.app">
+  <img src="https://img.shields.io/badge/Hybrid%20MFE-0f766e?style=for-the-badge" />
+</a>
 
 <a href="https://users-portal-angular.vercel.app">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
